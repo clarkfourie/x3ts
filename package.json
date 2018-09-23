@@ -1,0 +1,28 @@
+{
+  "name": "x3ts",
+  "version": "1.0.0",
+  "description": "X3 tensorflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkfourie/x3ts.git"
+  },
+  "keywords": [
+    "AI",
+    "machine",
+    "learning",
+    "X3",
+    "HR",
+    "payroll",
+    "ERP"
+  ],
+  "author": "Clark Fourie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarkfourie/x3ts/issues"
+  },
+  "homepage": "https://github.com/clarkfourie/x3ts#readme"
+}
